@@ -2,7 +2,7 @@
   "compilerOptions": {
     "module": "commonjs",
     "target": "es5",
-    "allowJs": true
+    "allowJs": true,
   },
   "include": ["typings/**/*"],
   "exclude": ["node_modules"]
